@@ -1,0 +1,1 @@
+Использовались технологии: JS (Node.js), JSON, RabbitMQ, PostgreSQL, Postman
